@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "32605647887",
+    "firebase_url": "https://social-login-e9515.firebaseio.com",
+    "project_id": "social-login-e9515",
+    "storage_bucket": "social-login-e9515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32605647887:android:ce111d2a9b0d0877961f7a",
+        "android_client_info": {
+          "package_name": "com.logintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32605647887-e1tn5hfp6pneuo47i963js5l6msa9on2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.logintest",
+            "certificate_hash": "3e743e08115a4d52f2706cc5652e7fd0f4edeb5a"
+          }
+        },
+        {
+          "client_id": "32605647887-01d807jip2es891g8i47bvqvkj5qk87u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9YP2Z1BG_V3s26jekdvpZQVkV3QoNDsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32605647887-01d807jip2es891g8i47bvqvkj5qk87u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "32605647887-rtm8i3m585g4laqf48chsnbkjul47lkt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.logintest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
